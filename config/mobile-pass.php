@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 return [
     /*
      * The actions perform core tasks offered by this package. You can customize the behaviour
